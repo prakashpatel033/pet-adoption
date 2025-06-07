@@ -1,0 +1,14 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
+
+.active {
+    background-color: teal !important;
+   
+}
+
+.category-btn.active span {
+    color: #fff !important;
+}
+
